@@ -10,7 +10,7 @@ h1,h2{
 }
 @font-face{
     font-family:'Gilroy-Regular';
-    src: url(/css/Font/Gilroy-Regular.ttf);
+    src: url(css/Font/Gilroy-Regular.ttf);
 }
 .container{
     max-width: 1110px;
@@ -31,7 +31,7 @@ h1,h2{
     justify-content: center;
 }
 .logo_company{
-background: url(/img/diamond.svg) no-repeat  92%, url(/img/diamond.svg) no-repeat 8%;
+background: url(img/diamond.svg) no-repeat  92%, url(img/diamond.svg) no-repeat 8%;
 }
 .nav_link{
 font-size: 14px;
@@ -55,7 +55,7 @@ margin-top: 18px;
     padding-left: 37px;
 }
 .search{
-    background: url(/img/search.svg) no-repeat left;
+    background: url(img/search.svg) no-repeat left;
 }
 .nav_border{
     align-items: center;
@@ -82,7 +82,7 @@ display: none;
     flex-direction: column;
 }
 .promo{
-background: url(/img/bgc.png) no-repeat center / cover;
+background: url(img/bgc.png) no-repeat center / cover;
     padding-top: 600px;
     margin-top: -95px;
 }
@@ -345,7 +345,7 @@ align-items: center;
     justify-content: space-around;
 }
 .exclusive_mailing_lists{
-    background: url(/img/bcg2.png);
+    background: url(img/bcg2.png);
     padding-top: 100px;
     padding-bottom: 120px;
 }
@@ -358,7 +358,7 @@ align-items: center;
     line-height: 140%;
     color: #FFFFFF;
     padding-left: 40px;
-    background: url(/img/subscribe__icon.svg) no-repeat left;
+    background: url(img/subscribe__icon.svg) no-repeat left;
     margin-top: 15px;
 }
 .references:last-child{
@@ -855,14 +855,14 @@ margin-bottom: 30px;
     padding-left: 28px;
 }
 .map{
-    background: url(/img/gridicons_location.svg) no-repeat left;
+    background: url(img/gridicons_location.svg) no-repeat left;
     margin-bottom: 15px;
 }
 .mail_us{
-    background: url(/img/mail.svg) no-repeat left;
+    background: url(img/mail.svg) no-repeat left;
     margin-bottom: 15px;
 }.phone_us{
-    background: url(/img/carbon_phone-filled.svg) no-repeat left;
+    background: url(img/carbon_phone-filled.svg) no-repeat left;
     margin-bottom: 15px;
 }
 .title_nav_contact{
